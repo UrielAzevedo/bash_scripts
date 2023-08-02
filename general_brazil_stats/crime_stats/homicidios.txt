@@ -1,0 +1,14 @@
+Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+De 1996 em diante, foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Elaboração Diest/Ipea.
+

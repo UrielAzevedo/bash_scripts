@@ -1,8 +1,6 @@
 #! /bin/sh
 
+cpu_temp=$(sensors | grep Tctl | awk '{print $2}')
+cpu_temp=${cpu_temp%%+ *}
 
-volume=$(amixer sget Master | grep Left)
-volume=${volume%%]*}
-volume=${volume##*[}
-
-echo ${volume}
+echo ${cpu_temp}
